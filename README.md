@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="WebCAD Alpha — Browser-Based 2D and 3D Parametric CAD Platform" width="100%" />
+<img src="./assets/banner-light.svg" alt="WebCAD Alpha — Browser-Based 2D and 3D Parametric CAD Platform" width="100%" />
 
 <br />
 
