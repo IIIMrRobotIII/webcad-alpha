@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-light.svg" alt="WebCAD Alpha — Browser-Based 2D and 3D Parametric CAD Platform" width="100%" />
+<img src="./assets/banner.svg" alt="WebCAD Alpha — Browser-Based 2D and 3D Parametric CAD Platform" width="100%" />
 
 <br />
 
@@ -56,8 +56,8 @@
 
 Found a bug or have an idea for a new CAD tool?
 
-- **[Report a Bug](https://github.com/IIIMrRobotIII/webcad/issues/new?template=bug_report.md)**
-- **[Request a Feature](https://github.com/IIIMrRobotIII/webcad/issues/new?template=feature_request.md)**
+- **[Report a Bug](https://github.com/IIIMrRobotIII/webcad-alpha/issues/new?template=bug_report.md)**
+- **[Request a Feature](https://github.com/IIIMrRobotIII/webcad-alpha/issues/new?template=feature_request.md)**
 - **[View Changelog](./CHANGELOG.md)**
 
 ---
