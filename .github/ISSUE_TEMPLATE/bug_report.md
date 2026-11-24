@@ -1,22 +1,22 @@
 ---
-name: Bug Report / Hata Bildirimi
+name: Bug Report
 about: Report an unexpected issue or bug in WebCAD Alpha
 title: "[Bug] "
 labels: bug
 ---
 
-## Description / Açıklama
+## Description
 Briefly describe what happened and what you expected to happen.
 
-## Steps to Reproduce / Yeniden Oluşturma Adımları
-1. Open WebCAD Alpha (`/` or `/en/`)
+## Steps to Reproduce
+1. Open WebCAD Alpha (`/en/` or `/`)
 2. Click on ...
-3. See error ...
+3. Observe error ...
 
-## Environment / Ortam
-- **Browser / Tarayıcı:** (e.g., Chrome, Edge, Firefox, Safari)
-- **Device / Cihaz:** (Desktop / Mobile)
-- **Language / Dil:** (TR / EN)
+## Environment
+- **Browser:** (e.g., Chrome, Edge, Firefox, Safari)
+- **Device:** (Desktop / Mobile)
+- **Language:** (English / Turkish)
 
-## Screenshots / Ekran Görüntüleri
-If applicable, drag and drop screenshots here.
+## Screenshots
+If applicable, drag and drop screenshots here to help explain the problem.
